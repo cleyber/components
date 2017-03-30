@@ -1,0 +1,14 @@
+{
+  "name": "calendario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "lite-server"
+  },
+  "author": "Cleyber <cleyber65@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
